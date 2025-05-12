@@ -177,3 +177,9 @@ wandb/
 swanlog/
 generated_predictions.jsonl
 predictions_score.json
+# 不推送训练产物
+saves/
+# Python 虚拟环境
+venv/
+__pycache__/
+*.pyc
